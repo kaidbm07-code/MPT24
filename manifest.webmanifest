@@ -1,28 +1,2 @@
 
-{
-  "id": "./",
-  "name": "MPT24 Free Fire Tournaments",
-  "short_name": "MPT24",
-  "description": "Free Fire community tournaments. Every match is free to join.",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#101116",
-  "theme_color": "#101116",
-  "categories": ["games", "entertainment"],
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    }
-  ]
-}
+{"id":"./","name":"MPT24 Free Fire Tournaments","short_name":"MPT24","description":"MPT24 Free Fire community tournaments. Every match is free to join.","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#101116","theme_color":"#101116","categories":["games","entertainment"],"icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
